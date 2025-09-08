@@ -2,7 +2,7 @@
 import { connect } from 'cloudflare:sockets';
 
 let userID = '';
-let proxyIP = '';
+let proxyIP = 'sjc.o00o.ooo';
 let DNS64Server = '';
 //let sub = '';
 let subConverter = atob('U1VCQVBJLkNNTGl1c3Nzcy5uZXQ=');
@@ -7187,4 +7187,5 @@ function config_Html(token = "test", proxyhost = "") {
 </html>`;
 
     return html;
+
 }
