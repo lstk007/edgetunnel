@@ -390,9 +390,6 @@ async function 维列斯OverWSHandler(request) {
         webSocket: client,
     });
 }
-
-letamente controllabile e libera da comportamenti dannosi.
- */
 async function handleTCPOutBound(remoteSocket, addressType, addressRemote, portRemote, rawClientData, webSocket, 维列斯ResponseHeader, log,) {
     async function useSocks5Pattern(address) {
         if (go2Socks5s.includes(atob('YWxsIGlu')) || go2Socks5s.includes(atob('Kg=='))) return true;
@@ -6163,4 +6160,5 @@ function config_Html(token = "test", proxyhost = "") {
     return html;
 
 }
+
 
